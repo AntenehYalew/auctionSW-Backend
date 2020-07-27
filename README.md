@@ -4,7 +4,7 @@ This project is created as a showcase to auctionsoftware
 
 This is only the backend work of the project
 
-For frontend, please check **gggg**
+For frontend, please check https://github.com/AntenehYalew/auctionSW-Frontend
 
 ### Getting started
 
